@@ -8,7 +8,7 @@ Headings use hashtags to indicate size. For smaller headings use multiple hashta
 To create a paragraph - use a new line to seperate multiple lines of text 
 DONT put TABS or spaces in your lines, keep them all left aligned
 
-##### Add emphasis my making text Bold and Italicized
+##### Add emphasis by making text Bold and Italicized
 
 For bolding text use TWO asterisks or underscores before and after the word or phrase. To bold the middle of a word put two asterisks with no spaces. 
 So for Loveisbold put TWO asterisks before and after is with no space
