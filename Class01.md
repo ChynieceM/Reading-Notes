@@ -57,7 +57,7 @@ To create an ordered list add number and periods like this
 
 To create an uordered list or a bullet use a dash or a plus like this
 - hello
- -indented hello
+-indented hello
 + hello
 
 Also dont use different delimeters in the same list
