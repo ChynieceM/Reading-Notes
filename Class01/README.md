@@ -1,9 +1,11 @@
 # Class 01
 
 ## How to use markdown syntax (note-taking)
-##### We used [Markdown Guide] (https://www.markdownguide.org/basic-syntax/)
+##### We used [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
-Headings use hashtags to indicate size. For smaller headings use multiple hashtags. Ex. Heading Level 1 Largest all the way to Heading Level 6. For level 6 use 6#'s.
+***PAY ATTENTION TO SPACING !!!!!!***
+
+Headings use hashtags to indicate size. For smaller headings use multiple hashtags. Ex. Heading Level 1 -Largest- all the way to Heading Level 6. For level 6 use 6#'s.
 
 To create a paragraph - use a new line to seperate multiple lines of text 
 DONT put TABS or spaces in your lines, keep them all left aligned
@@ -56,9 +58,11 @@ To create an ordered list add number and periods like this
 &nbsp;&nbsp;&nbsp;&nbsp; 3. Indented item
 
 To create an uordered list or a bullet use a dash or a plus like this
+
 - hello  
 
 &nbsp;&nbsp;&nbsp;&nbsp; - indented hello
+
 - hello
 
 Also dont use different delimeters in the same list
