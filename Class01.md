@@ -1,6 +1,6 @@
 # Class 01
 
-## How to use markdown syntax
+## How to use markdown syntax (note-taking)
 ##### We used [Markdown Guide] (https://www.markdownguide.org/basic-syntax/)
 
 Headings use hashtags to indicate size. For smaller headings use multiple hashtags. Ex. Heading Level 1 Largest all the way to Heading Level 6. For level 6 use 6#'s.
