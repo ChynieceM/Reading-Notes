@@ -1,6 +1,7 @@
 # Class 01
 
-## How to customize notes (edit and create, bold heading etc) We used [Markdown Guide] (https://www.markdownguide.org/basic-syntax/)
+## How to customize notes
+##### We used [Markdown Guide] (https://www.markdownguide.org/basic-syntax/)
 
 Headings use hashtags to indicate size. For smaller headings use multiple hashtags. Ex. Heading Level 1 Largest all the way to Heading Level 6. For level 6 use 6#'s.
 
