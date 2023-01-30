@@ -114,8 +114,9 @@ the first part looks like this [text] [label]:
 the second part looks like this https:address. com "text"  
 
 For example to make this easier to read in a paragraph it should look like this
-I went to the grocery store the other day and I got so much [food][1].
-[1]:<https://kroger.com>"grocery store I went to"
+I went to the grocery store the other day and I got so much [food][1]
+ 
+[1]: <https://www.kroger.com/> "grocery store I went to"
   
 Additionally spaces in a URl arent recognizable so use 20% ex. www.hello.ccc/hello20%go20%
  
