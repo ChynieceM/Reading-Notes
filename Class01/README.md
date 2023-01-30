@@ -53,11 +53,11 @@ To create Bullets use a dash - and space before the paragraph, to use a block qu
 To create an ordered list add number and periods like this
 1. A
 2. B
-&nbsp;&nbsp;&nbsp;&nbsp;3. Indented item
+&nbsp;&nbsp;&nbsp;&nbsp; 3.Indented item
 
 To create an uordered list or a bullet use a dash or a plus like this
 - hello
-&nbsp;&nbsp;&nbsp;&nbsp;-indented hello
+&nbsp;&nbsp;&nbsp;&nbsp; -indented hello
 + hello
 
 Also dont use different delimeters in the same list
