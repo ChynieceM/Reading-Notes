@@ -1,9 +1,9 @@
-# 102 Intro to Software Dev
+# Code School Reading-Notes 
 
-## Reading-Notes
-Code School Notes
+## 102 Intro to Software Dev
 
-### [Class 01](https://github.com/ChynieceMatthews/Reading-Notes/blob/main/Class01.md)
-We made a Github pages site
 
-### Class 02
+### [Class 01](https://github.com/ChynieceMatthews/Reading-Notes/blob/main/Class01/README.md)
+
+
+### [Class 02]()

@@ -1,14 +1,16 @@
 # Class 01
 
-## How to use markdown syntax (note-taking)
-##### We used [Markdown Guide] (https://www.markdownguide.org/basic-syntax/)
+## How to use Markdown syntax (note-taking)
+##### We used [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
-Headings use hashtags to indicate size. For smaller headings use multiple hashtags. Ex. Heading Level 1 Largest all the way to Heading Level 6. For level 6 use 6#'s.
+***PAY ATTENTION TO SPACING !!!!!!***
+
+Headings use hashtags to indicate size. For smaller headings use multiple hashtags. Ex. Heading Level 1 -Largest- all the way to Heading Level 6. For level 6 use 6#'s.
 
 To create a paragraph - use a new line to seperate multiple lines of text 
 DONT put TABS or spaces in your lines, keep them all left aligned
 
-##### Add emphasis my making text Bold and Italicized
+##### Add emphasis by making text Bold and Italicized
 
 For bolding text use TWO asterisks or underscores before and after the word or phrase. To bold the middle of a word put two asterisks with no spaces. 
 So for Loveisbold put TWO asterisks before and after is with no space
@@ -53,12 +55,15 @@ To create Bullets use a dash - and space before the paragraph, to use a block qu
 To create an ordered list add number and periods like this
 1. A
 2. B
+
 &nbsp;&nbsp;&nbsp;&nbsp; 3. Indented item
 
 To create an uordered list or a bullet use a dash or a plus like this
+
 - hello  
 
 &nbsp;&nbsp;&nbsp;&nbsp; - indented hello
+
 - hello
 
 Also dont use different delimeters in the same list
@@ -109,10 +114,10 @@ the first part looks like this [text] [label]:
 the second part looks like this https:address. com "text"  
 
 For example to make this easier to read in a paragraph it should look like this
-I went to the grocery store the other day and I got so much [food][1].
-[1]: <https://kroger. c o m> "grocery store I went to"
+I went to the grocery store the other day and I got so much [food][1]
+ 
+[1]: <https://www.kroger.com/> "grocery store I went to"
   
 Additionally spaces in a URl arent recognizable so use 20% ex. www.hello.ccc/hello20%go20%
- 
  
  
