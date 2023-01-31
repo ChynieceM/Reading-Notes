@@ -1,6 +1,6 @@
 # Class 01
 
-## How to use markdown syntax (note-taking)
+## How to use Markdown syntax (note-taking)
 ##### We used [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 ***PAY ATTENTION TO SPACING !!!!!!***
