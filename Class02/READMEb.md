@@ -28,6 +28,20 @@ The **Shell** is w/in the terminal.
 
 ## Basic Navigation
 
+> **Important Concepts**
+>
+> pwd - print working directory "where we are currently"
+>
+> Is - list the contents of directory
+>
+> cd - change directories "more to another directory" 
+>
+> Relative Path - a file or directory location relative to where we are in the file system
+>
+> Absolute Path - a file or directory location in relation to the root of the file system
+
+
+
 **PWD** command aka *Print Working Directory* - where we at 
 
 * PWD  tell you where your present working directory is 
@@ -82,4 +96,60 @@ ex. cd[change location]
 
 Tab Completion - Hitting the tab button can invoke auto complete 
 
-## About Files
+## More About Files
+
+> **Important concepts** 
+>
+> Everything is a file even directories
+>
+> Files can have any extensions or none in Linux
+>
+> Beware of typos and case
+
+Everything is a file 
+* a text file, directory file, the keyboard is a file (the system only reads this), the monitor is a file (the system writes this only)
+
+A file extensions is usually 2-4 chara & tells us what kind of file it is
+* ex. file.exe
+* file.txt
+* file.png, file.gif etc
+
+The system dertemines what kind of file in Windows but in *Linux it ignores the file type* but it looks inside the file to see what kind it is.
+* you can name a file whatever in Linux and it'll still determine it as an image for example.
+
+**File Command** file [path]
+This can tells us what kind of file we have 
+
+***Whenever we specify a file command line its actually as path*** 
+* directories are just special type of file
+
+###### These systems are case sensitive
+* especially when referring to files, which is why it *is possible to have 2 + files* with the same name and DIFFERENT cases
+* a space on a command line helps us seperate items and how we identify each command line argument
+* for ex. Holiday Photos is sen as two command line arguments
+
+**Quotes**
+* use single or double quotes
+
+**Escape Characters**
+* use a backslash \ to escape or nullify the special meaning of a character 
+* for example,  a space b/w holiday photos would normally have a special meaning to separate them as specific command line argumetns, but here holiday\photos removes it
+**SHORTCUT** if you use tab completion previously the terminal will automitally escape any spaces
+
+###### Hidden files & Directories 
+* To create a hidden file or directory us the **Is** command but the file name or directory neeeds to begin with a . (dot) 
+ (an ex. of this is config. files are hidden so they wont get in the way of a user's everyday tasks)
+* To show contents of the directory and hidden files use **-a**
+
+
+
+
+
+
+
+
+
+
+## Questions/ Things I want to know more about
+How does the terminal help us with everyday tasks?
+What is the purpose of the terminal in relation to a text editor?
