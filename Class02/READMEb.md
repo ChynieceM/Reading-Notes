@@ -1,3 +1,4 @@
+# Class 02
 ## The Command Line
 
 **GUI** = Graphical User Interface
