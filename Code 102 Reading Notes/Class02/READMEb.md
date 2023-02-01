@@ -79,8 +79,11 @@ The file system in linux is hierarchical
 *at the top is the **root** directory. 
 *the root is shown by one slash / 
 
-*Absolute* paths specify a location relative to the root directory or whats at the top - always starts w/ forwrd slash /
-*Relative* paths specify a location relative to where we are in the system - these dont start w a slash
+***Absolute*** paths specify a location relative to the root directory or whats at the top - always starts w/ forwrd slash /  Absolute paths always begin at the root directory
+ex.    /etc/sound/events this goes down in the file directory
+
+***Relative*** paths specify a location relative to where we are in the system - these dont start w a slash -- using two dots means you can climb upwards in a folder so ../../  takes you up two levels 
+ex. etc/sound/events up to levels will put you back in etc
 
 Bulding Paths
 ~(tilde) home directory shortcut
