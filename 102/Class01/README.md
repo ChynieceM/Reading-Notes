@@ -119,5 +119,3 @@ I went to the grocery store the other day and I got so much [food][1]
 [1]: <https://www.kroger.com/> "grocery store I went to"
   
 Additionally spaces in a URl arent recognizable so use 20% ex. www.hello.ccc/hello20%go20%
- 
- 
