@@ -48,8 +48,11 @@ Stashing changes - not ready to trash or committ
 These are versions of a project residing online or on a network
 -seeing your remotes use a command
 
-Local Repo structure 
-Working directory (where the files reside) - Index (area used for staging) - Head (points to the most recent commit)
+Local Repo structure
+
+- Working directory (where the files reside) 
+- Index (area used for staging) 
+- Head (points to the most recent commit)
 
 
 
