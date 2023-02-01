@@ -62,3 +62,5 @@ uploading is staging
 
 
 Questions - do we need to do any of the intial customizations or we did that yesterday? 
+
+## [Class 03](/Reading-Notes/102/Class03)
