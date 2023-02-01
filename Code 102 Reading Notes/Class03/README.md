@@ -1,4 +1,4 @@
-## Git Tutorial 
+## [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2) 
 
 * *Version Control* allows you to revisit various versionls pf a file or set by recording changes -- similar to a history.
 We can track changes with version control
