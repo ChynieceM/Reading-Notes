@@ -8,4 +8,4 @@
 
 ### [Class 02](https://github.com/ChynieceMatthews/Reading-Notes/blob/main/Class02/READMEb.md)
 
-### [Class03] 
+### [Class 03](https://github.com/ChynieceMatthews/Reading-Notes/tree/main/Class03)
