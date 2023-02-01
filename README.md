@@ -1,7 +1,5 @@
 # Code School Reading-Notes 
 
-## 102 Intro to Software Dev
-
 
 ### [Code 102 Reading Notes](https://github.com/ChynieceMatthews/Reading-Notes/blob/main/Class01/README.md)
 
