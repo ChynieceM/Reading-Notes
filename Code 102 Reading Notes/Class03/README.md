@@ -46,5 +46,4 @@ Working directory (where the files reside) - Index (area used for staging) - Hea
 
 
 
-
 Questions - do we need to do any of the intial customizations or we did that yesterday? 
