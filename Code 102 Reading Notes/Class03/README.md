@@ -13,8 +13,7 @@ We can track changes with version control
 
 **Local Operations** Git mostly relies on operation bc a project's history is on the local disk whiich emilinates the need to be online to work on a project.
 
-All changes are tracked by git and it will always detect corruption/ loss 
-So you wont lose anything
+All changes are tracked by git and it will always detect corruption/ loss; you wont lose anything
 
 Files in Git will be 
 1. Committed - securely stored 
