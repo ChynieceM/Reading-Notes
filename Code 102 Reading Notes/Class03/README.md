@@ -1,7 +1,9 @@
 ## [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2) 
 
+A repository is the same thing as file  in Git language
+
 * *Version Control* allows you to revisit various versionls pf a file or set by recording changes -- similar to a history.
-We can track changes with version control
+We can track changes with version control; this reminds me of google docs version history 
 
 * Local version contrl (local VCS) has one database on the hard disk that stores changes to the files 
 
@@ -54,7 +56,8 @@ Local Repo structure
 - Index (area used for staging) 
 - Head (points to the most recent commit)
 
-
+Lifee cycle
+uploading is staging
 
 
 
