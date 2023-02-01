@@ -24,15 +24,25 @@ Files in Git will be
 
 #### Commands in Git
 To check settings
+
 Getting help
+
 Setting up a repository
+
 -Importing
--Cloning - creating a copy
+
+-Cloning- creating a copy
+
 Check File Status
+
 Tracking and Staging a new file
+
 Committing a file
+
 Committing all changes
+
 Pushing changes
+
 Stashing changes - not ready to trash or committ
 
 ##### Remote Repos
