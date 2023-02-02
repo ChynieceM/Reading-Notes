@@ -157,3 +157,5 @@ This can tells us what kind of file we have
 ## Questions/ Things I want to know more about
 How does the terminal help us with everyday tasks?
 What is the purpose of the terminal in relation to a text editor?
+
+###### [Return](/Reading-Notes/102/) 
