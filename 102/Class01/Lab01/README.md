@@ -16,4 +16,4 @@ For me, a *growth mindset* means to focus on **progress** and take baby steps to
 
 ![Heart](https://www.freeiconspng.com/thumbs/heart-png/valentine-red-heart-png-15.png)
 
-#### [Return](/Reading-Notes/102/)
+#### [Return](/Reading-Notes/102/) 
