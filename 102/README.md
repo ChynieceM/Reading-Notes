@@ -12,6 +12,8 @@
 
 ## [Class 04](/Reading-Notes/102/Class04)
 
+#####
+
 ## [Class 05](/Reading-Notes/102/Class05)
 
 ## [Class 06](/Reading-Notes/102/Class06)
