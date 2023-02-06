@@ -57,10 +57,20 @@ Add some informational details to prepare your wireframe for its upgrade, megatr
 
 Add detail in the way you would process a screen or book. Top to bottom, left to right. ***Here you are adding content, not the muscle just yet***. 
 
+* Try to adhere to usability conventions such as putting your navigation bar next to your logo or having a search bar near the far right at the top of the page. 
+
 6. **Turn wireframes into prototypes** 
 
 You can now import your wireframes into a prototyping tool. 
 
+
+### How to make you wireframe good
+
+1. Clarity - Your wireframe needs to answer what the site page is, what the user can do, and if it satisfies their needs.
+
+2. Confidence - Ease of navigation through your site and clear calls to action. Using familiar navigational processes and putting buttons in commonly used places.
+
+3. Simplicity is key - too much info, copy, links, can be distracting. Your wireframe should be a visual guide to the framework of the site. But also help users and point them to your goals by way of interaction ie. check out cart etc. 
 
 
 # HTML Basics
