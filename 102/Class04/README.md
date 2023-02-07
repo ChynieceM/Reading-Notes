@@ -75,7 +75,148 @@ You can now import your wireframes into a prototyping tool.
 
 # HTML Basics
 
+**HTML** is a markup language that defines the structure of content. HTML consists of elements which you use to *enclose*, or wrap, different parts of content to make it look a certain way or act a certain way. The enclosing tags can make a word/image hyperlink to somewhere, italicise words, change font size etc. 
+ * ex. `<p>My cat is very grumpy</p>`
+
+ #### **Anatomy of an HTML element** 
+
+ 1. The opening tag: consist of the name of the element (p for paragraph) wrapped in opening and closing **angle  brackets**; where the element begins to take effect.
+
+ 2. The closing tag: This is the same as the opening tag except it includes a forward slash before the element name; where the element ends. 
+
+ 3. The content: content of element or text
+
+ 4. The element: The opening tag, closing tag, and the content together to comprise the element
+
+ ##### **Attriubutes** contain extra information about the element that you dont want to appear in the actual content - or what you dont want people to see. 
+
+ ex. `<p class="editor-note">My cat is grumpy</p>`
+
+ * `class` is the attribute *name* and `editor-note` is the attribute *value*. The `class` attribute allows you to give the element a non unique identigier that can be used to target it with style information and other things. 
+
+ **Attributes that set a value always have**: 
+
+ 1. a space b/w it and the element name or previous attribute if the element already has one or more attributes.
+
+ 2. The attribute name followed by an equal sign
+
+ 3. The attribute value wrapped by opening and closing quotation marks.
+
+ ##### **Nesting Elements**
+
+ Putting elements inside other elements. to emphasize "very" in the ex. below, wrap text in a `<strong>` element. To properly nest close the strong element first. 
+
+> `<p>My cat is <strong>very</strong> grumpy.</p>`
+
+##### **Void Elements** 
+
+Elements that have no content are void elements. For ex. the `<img>` element.
+>
+> `<img src="images/google.png" alt="Ex. Image"/>`
+>
+>> This has two attributes but theres no closing `</img>` tag and no inner content. The image element doesnt wrap content to affect it. Its purpose is to embed an image in the HTML page in the place it appears. 
+
+##### **Anatomy of an HTML document**
+
+* `<!DOCTYPE html>` -- doctype is a required preamble. This makes sure your document behaves correctly. 
+
+* `<html></html>` - the html element wraps all the content on the entire page and is sometimes known as the **root** element. It also includes the `lang` attribute to set the primary language of the document. 
+
+* `<head></head>` - the head element acts as a **container** for all the stuff you want to include on the HTML page that ***isnt*** the content you are showing to your pages viewers. this includes keywords and page description that you want to appear in search results, CSS to style our content, character set declaration, and more. 
+
+* `<meta charset="utf-8">` - This elements sets the character set to your doc. It should include most characters from the vast majority of languages. 
+
+* `<title></title>` - the title element sets the title of hte page and this is what appears in the browser tab the page is loaded in. 
+
+`<body></body>` the body element contains all the content that you want to show to web users when they visit your page. Text, images, videos, audio tracks, etc. 
+
+##### **Images**
+
+The `<img>`  elements embeds the image into the page via the `srs` source attribute which contains the path to the image file.
+
+We also include an `alt` attribute which specifies descriptive tect for users who cannot see the image for possible reasons:
+
+1. They are visually impaires so they use tools called screen readers to read out alt text
+
+2. Something has gone wrong causing the image to not display. So it'll show your alt text instead.
+
+The **keywords** for alt text are **"descriptive text**. The alt text should give the reader enough info to have a good idea about what the image conveys. 
+
+##### Marking up text
+
+**Headings**
+
+Heading elements allow you to specify which parts of the content are headers or sub headers. There are 6 heading levels
+
+`<!-- 4 heading levels: -->` - 
+
+Anything b/w `<! -- and -->` is an html comment
+
+`<h1>My main title</h1>`
+`<h2>My top level heading</h2>`
+`<h3>My subheading</h3>`
+`<h4>My sub-subheading</h4>`
+
+***Dont use heading levels to bold text or make trext bigger b/s its used for accessibilty and other things like SEO*** 
+
+**Lists** 
+
+Ordered lists and Unordered lists
+
+1. Unordered lists - wrapped in `<ul>` element
+
+2. Ordered lists - wrapped in `<ol>` element
+
+Each item inside the list is put inside an `<li>` *list item* element.
+
+##### **Links** 
+
+To add a link we use the **anchor** element or `<a>`; to make text w/in a paragraph into a link:
+
+1. Choose text. 
+
+2. Wrap text in `<a>` 
+
+* `<a href="">Recipes</a>` href stands for hyptertext reference
+
+
+
 # Semantics
+
+In programming, **semantics** refers to the *meaning* of a piece of code. For example, "what does that line of code do in JavaScript?" or whats the purpose or role of that HTML element. 
+
+##### **Semantics in JavaScript, CSS, and HTML**
+
+In JavaScript consider a function that takes a string parameter and returns an `<li>` element with that string as its `textContent`. Would you need to looat at the code to understand hwat the function did if it was called `build('Peach')`?
+
+In CSS, consider styling a list with `li` elements representing different types of fruits. Would you know what part of the DOM is being selected iwht `div > ul > li` or `.fruits_item`?
+
+In HTML, the `<h1>` element is a semantic element, which gives the tect it wraps around the role of a top level heading on the page. 
+
+***HTML should be coded to represent the **data** that will be populated and nost based on its default presentation styling***
+
+Presentation is the sole responsibilty of **CSS**
+
+Benefits from writing semantic markup
+
+* search engines will consider its contents as important keywords to influence the page search rankings
+
+* Screen readers can use it as a signpost to help visual impaired
+
+* finding blocks of meaningful code is easier than reading throuhg endless `div`s
+
+* semantic naming mirrors proper custom element/component naming
+
+When using markup ask youself 
+
+* what elements best describe/represent the data that I'm going to populate? Ex. Is it a list of data?, ordered or unordered? etc. 
+
+
+# Links for elements and descriptions
+
+[Elements and Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+[HTML + Tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 
 UX, UI, -- UX is the overall feel 
