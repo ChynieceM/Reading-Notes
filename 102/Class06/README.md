@@ -52,6 +52,27 @@ A **block statement** is used to group zero or more statements and delimited by 
 
 `const` - declares a block-scoped, read-only named constant
 
+**7 data types**
+
+1. Boolen - true and false
+
+2. null - a special keyword denoting a null value. must be lowercase null
+
+3. undefined - a top level property whose value isnt defined
+
+4. number - an integer or floating point number. `42` or `3.12345`.
+
+5. BigInt - an integer w/ an arbitrary precision ex. `90000004n`
+
+6. String - a sequence of characters ex. `howdy`
+
+7. Symbol - a data type whose instances are unique and immutable
+
+Object - think of **objects** as named containers for values and 
+
+Think of **functions** as procedures your script can perform
+
+
 **Editor or IDE**
 
 On MS windows you can use notepad. Any text editor can be used.
