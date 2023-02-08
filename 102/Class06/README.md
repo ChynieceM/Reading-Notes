@@ -26,6 +26,32 @@ The most well known environment to run JS on the server is Node.js.
 
 Here are a few examples we can run in a browser. 
 
+#### Declarations
+
+JS has 3 kinds of variable declarations
+
+*variables are symbolic names in your application. the names of variables called identifiers conform to certain rules* 
+
+* A JS identifier usually starts with a letter, underscore, or dollar sign. 
+
+A variable may belong to one of the following scopes:
+
+* **global scope**: the default scope for all code runninng in script mode
+
+* **module scope**: the scope for code running in module mode.
+
+* **funtion scope**: the scope created with a function.
+
+***A global variable is decalred outside of any function and its available to any code; when you declare a a local variable its only available within that funtion***
+
+A **block statement** is used to group zero or more statements and delimited by a pair of curly brackets.
+
+`var` - declares a varibale, optionally initializing it to a value
+
+`let` - declares a block-scoped, local variable, optionally initializing it to a value
+
+`const` - declares a block-scoped, read-only named constant
+
 **Editor or IDE**
 
 On MS windows you can use notepad. Any text editor can be used.
