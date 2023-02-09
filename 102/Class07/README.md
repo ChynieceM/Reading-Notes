@@ -56,4 +56,15 @@ For example `toCelcius` refers to the function object, and `toCelcius()` refers 
 
 Accessing a function without an () will return the function object instead of the function result. 
 
+**Functions used as variable values**
+
+Instead of using a variable to store the return value of a funtion:
+Ex. `let x = toCelcius(77)`
+
+`let text = 'the temperature is' +x+ 'celcius';`
+
+You can use the function directly, as a variable value
+
+`let text = 'the temperature is' + toCelcius(77) + 'celcius'; `
+
 
