@@ -1,0 +1,59 @@
+# Control Flow 
+
+The **Control Flow** is the order inwhich te computer executes statements in a script.
+
+Code is run in order from the first line in the file to the last line, unless the computer runs across the extrememly frequent structures that change the contorl flow, such as conditionals and loops.
+
+Control flow means that when you read a script, you must not only look at program structure and how it affects order of execution.
+
+**Function**
+
+A JS function is a block of code designed to performa a particular task.
+
+A JS script function is executed when something invokes or "calls it"
+
+**JS Function Syntax**
+
+A function is defined with the `function` keyword followed by a **name**
+followed by a parentheses.
+
+Function names can contain letters, digits, underscores, and dollar signs - same rules as variables
+The parentheses may include **parameter** names separated by commas.
+
+The code to be exected by the function is placed inside curly brackets.
+
+* Function **parameters** are listed inside the parentheses in the function definition.
+
+* Function **arguments** are the **values** received by the function when its invoked or called. 
+
+Inside the funtion, the arguments (the parameters) behave as local variables. 
+
+**Function Invocation**
+
+The code inside the functionwill execute when soemthing calls the function. 
+
+* When an event occurs (when a user clicks a button)
+
+* When its called from JavaScript code
+
+* Automatically - self invoked
+
+**Function Return**
+
+When JS reaches a `return` statement the funcion will stop executing.
+
+If the function was invoked from a statement, JavaScript will "return" to execute the code after invoking the statement.
+
+Functions often compute a **return value**. The return value is returned back to the caller. 
+
+With functions you can reuse code: define the code once and use it many times
+
+You can use the same code different times with different arguments to produce different results
+
+**The () Operator Invokes the Function**
+
+For example `toCelcius` refers to the function object, and `toCelcius()` refers to the function result
+
+Accessing a function without an () will return the function object instead of the function result. 
+
+
