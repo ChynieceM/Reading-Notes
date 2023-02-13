@@ -1,6 +1,6 @@
 # Control Flow 
 
-The **Control Flow** is the order inwhich te computer executes statements in a script.
+The **Control Flow** is the order in which te computer executes statements in a script.
 
 Code is run in order from the first line in the file to the last line, unless the computer runs across the extrememly frequent structures that change the contorl flow, such as conditionals and loops.
 
@@ -67,4 +67,16 @@ You can use the function directly, as a variable value
 
 `let text = 'the temperature is' + toCelcius(77) + 'celcius'; `
 
+## **Loop**
+
+A **loop** is a  sequence of instructions that is repeated until a certain condition is met. An example would be the process of getting an item of data and changing it and then making sure some condition is checked such as if a counter has reached a prescibed number.
+
+* Loops are one way to execute a statement for a variable a number of times. 
+* The same effect can be achieved with recursion, especially in languages where all data is immutable making it impossible to update a counter variable. 
+
+***A function is a code snippet tha can be called by other code or by itself, or a variable that refers tothe function***
+
+A recusive funtion is a function that calls itself. 
+
+**Control flow means that when you read a script you must not only read it from start to finish, but also look at the program structure and how it affects the order of execution**
 
