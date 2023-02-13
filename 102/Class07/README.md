@@ -80,3 +80,38 @@ A recusive funtion is a function that calls itself.
 
 **Control flow means that when you read a script you must not only read it from start to finish, but also look at the program structure and how it affects the order of execution**
 
+***Types of JavaScript Operators***
+
+* Arithmetic Operators: +, -, *, ** (exponent), /, % (modulus-division remainder), ++ increment, -- decrement
+
+* Assignment operators: 
+
+`"="` same as `x=y`
+
+`+=` same as `x=x+y`
+
+`-=` same as `x=x-y`
+
+`*=` same as `x=x*y`
+
+`/=` same as `x=x/y`
+
+`%=` same as `x=x%y`
+
+`**=` same as `x=x**y`
+
+*`+` operator can also be used to concatenate strings*
+
+* Comparison Operators:
+
+* Logical Operators:
+
+* Conditional Operators:
+
+* Type Operators:
+
+
+Function Scope:
+
+when you write a varible inside a function youll be able to acces it, but if you write it outside you wont be able to acess it 
+
