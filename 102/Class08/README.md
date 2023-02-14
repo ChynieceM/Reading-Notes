@@ -77,3 +77,34 @@ For ex. Go 5 steps to the east:
 >
 >`console.log('Walking east one step");`
 >}`
+
+* Loops allow you to run the same code multiple times. 
+
+* While loops run while a specified condition is true and stops once its no longer true. 
+
+var i = 0
+
+while(i < 5>){
+myArray.push(i);
+i++
+}
+console.log(myArray)
+
+should show [0,1,2,3,4]
+
+Iterate while loops 
+
+* For Loops
+
+var ourArray = [];
+for(var i=0; i<5; i++){
+    ourArray.push(i);
+}
+- instead of `ourarray.push(i)` you'd add console.log(ourArray)
+for (var i = 1; i<6; i++){
+    myArray.push(i);
+}
+
+should show [1,2,3,4,5]
+
+* The various loop mechanisms offer different ways to determine the start and end points of the loop.
