@@ -137,7 +137,7 @@ Is it reasonable to design a website to cover all of my goals that I want to acc
 
 **Semantics**
 
-1. Why should you use an <h1> element over a <span> element to display a top level heading?
+1. Why should you use an `<h1>` element over a `<span>` element to display a top level heading?
 
 The `<span>` element will render something to look like a top level heading but it has no semantic value. The `<h1>` element gives the text it wraps around a ***role*** or a meaning. **HTMl** should be coded to represent *data* that will be populated and not what it should look like. That's what CSS is for. 
 
