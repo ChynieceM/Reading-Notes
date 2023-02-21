@@ -1,12 +1,13 @@
 ## HTML cont. & HTML Text Fundamentals /Advanced formatting
 
+
 1. Why is it important to use semantic elements in our HTML?
 
-* Semantic elements give meaning. It's important that our document has correctly labeled sections for example and that jobs go to the right "people". 
+ Semantic elements give meaning. It's important that our document has correctly labeled sections for example and that jobs go to the right "people". 
 
-* It makes the content easier to read and later on it allows us to add functionality and to do that we need structure and an organized mark up to make adding functionality and style easier. 
+ It makes the content easier to read and later on it allows us to add functionality and to do that we need structure and an organized mark up to make adding functionality and style easier. 
 
-* When we see something we will know what each element means and we will know what function it needs. So giving our content the correct function, meaning, and appearance. 
+ When we see something we will know what each element means and we will know what function it needs. So giving our content the correct function, meaning, and appearance. 
 
 2. How many levels of headings are there in HTML?
 
