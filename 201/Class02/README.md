@@ -82,8 +82,11 @@ This gives us a way to use more than two choices or outcomes.
 
 `&&` -- AND allows you to chain 2 or more expression so that all of them have to indivudally evaluate to `true` for the whole expression to evaluate to true. 
 
-`||` -- OR allows you to tchain together 2 or more expressions so that 1 or more have to individually evaluate to `true` for the whole expression to return to `true`. 
+`||` -- OR allows you to chain together 2 or more expressions so that 1 or more have to individually evaluate to `true` for the whole expression to return to `true`. 
 
 ## How to use Git
 
 [how to use git](https://chris.beams.io/posts/git-commit/)
+
+
+
