@@ -53,19 +53,23 @@ Yes, you can access the values stored by:
 
 3. List five shorthand operators for assignment in javascript and describe what they do.
 
-`=` equals
-`++` strict equals
-`*=` strict not equals
-`-=`
-`+=`
+* += adds the value on the right to the value stored in the variable on the left and assigns the new value to the variable
+
+* -= subtracts the value on the right from the value stored in the variable on the left and assigns the new value to the variable
+
+* /= divides the value in the variable on the left by the value on the right and stores the new value in the variable
+
+* *= multiplies the value in the variable on the left by the value on the right and stores the new value in the variable
+
+* %= stores the remainder from dividing the value stored in the variable on the left by the value on the right into the variable
 
 4. Read the code below and evaluate the last expression and explain what the result would be and why.
 
-the result would be '10dog' because false is a boolean and the equation would do nothing with false. 
+This would evaluate to the string `'10dog'`. The `a + c` would be evaluated first because it is in the parentheses. Javascript would change false to 0 and add it to 10. Then it would turn 10 to a string and concatenate it with 'dog' which is the value stored in `b`.
 
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
 
-When you have many conditions to be met; guessing games. 
+When you have many conditions Sto be met; guessing games. 
 
 Give an example of when a Loop is useful in JavaScript.
 
