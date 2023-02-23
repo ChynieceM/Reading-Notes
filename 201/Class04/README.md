@@ -39,7 +39,7 @@ It means we can create isolated UI features that dont interfere with the layout 
 
 5. What is a key difference between fixed positioning and absolute positioning?
 
-Absolute positioning fixes an element in a place relative to its nearest positioned ancestor; fixed positioning usually fixes the element in place realtive to the visible portion of the viewport. 
+Absolute positioning fixes an element in a place relative to its nearest positioned ancestor-- doesnt move around; fixed positioning usually fixes the element in place realtive to the visible portion of the viewport(what ever you seeing through). -- moves around
 
 ## Functions – Reusable Blocks of Code -JavaScript
 
@@ -51,7 +51,7 @@ Function invokation means calling on that function where as function declaration
 
 A parameter is a value that needs to be included inside the function parenthesis in order to do it job properly. 
 
-Parameters are sometimes called arguments. 
+Parameters are sometimes called arguments. They are the same thing. 
 
 ## Misc
 
