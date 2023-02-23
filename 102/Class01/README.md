@@ -99,9 +99,9 @@ use one or more back ticks to escape a back tick ``
  
 To create a Horizontal rule use three or more asterisks, underscores, or dashes
 
-[***]
-[---]
-[___]
+`[***]`
+`[---]`
+`[___]`
  
 PUT BLANK LINES BEFORE and AFTER Horizontal
  
@@ -118,37 +118,37 @@ it should look like this [text] (URL) "what you want the tool tip to be"
 
 To turn an email or url into a link use less than sign <
 
-<email@email.org>
-<www.ok.ccc>
+`<email@email.org>`
+`<www.ok.ccc>`
 
 To emphasize links add asterists before and after parenthesis and brackets
 
 
 To denote links as code add backticks to in the parenthesis and brackets
-**[text] (text)** to bold 
+`**[text] (text)** to bold` 
 
 
-*[text] (text)* to italicize
+`*[text] (text)* to italicize`
 
 Reference style links are special in the sense it makes it easier for markdown to be read
 
 
-* the first part looks like this [text] [label]: 
+* the first part looks like this `[text] [label]:` 
 
 
-the second part looks like this https:address. com "text"  
+the second part looks like this `https:address. com "text"`
 
 
 For example to make this easier to read in a paragraph it should look like this:
 
 
-I went to the grocery store the other day and I got so much `[food][1]
+I went to the grocery store the other day and I got so much `[food][1]`
  
 
-[1]: <https://www.kroger.com/> "grocery store I went to"`
+`[1]: <https://www.kroger.com/> "grocery store I went to"`
   
-Additionally spaces in a URl arent recognizable so use `20% 
+Additionally spaces in a URl arent recognizable so use `20%` 
 
-ex. www.hello.ccc/hello20%go20%`
+`ex. www.hello.ccc/hello20%go20%`
 
 #### [Return](/Reading-Notes/102/) 
