@@ -12,7 +12,7 @@ It is much more effecient than sending several items individually and it is easi
 
 3. How do objects differ from arrays?
 
-With an object, you can transfer several items but with an array you have to access one item at a time. 
+Objects are accessed to by their name whereas an array is accessed by its index. 
 
 4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
 
