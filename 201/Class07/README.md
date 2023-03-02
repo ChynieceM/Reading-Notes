@@ -15,7 +15,7 @@ HTML Table Basics
 
 2. List and describe 3 different semantic HTML elements used in an HTML `<table>`.
 
-`<td>`, `<tr>`, `<table>`
+`<td>` - table data, `<tr>` - table row, `<table>`
 
 Introducing Constructors
 
@@ -27,7 +27,9 @@ This is useful so we don't have to write out the same code for every object like
 
 2. How does the term this differ when used in an object literal versus when used in a constructor?
 
-`this` used in an object literal refers to the object being created by the literal. In a constructor function this refers to the instance of the object being created by the constructor. 
+`this` used in an object literal refers to the object being created by the literal. In a constructor function `this` refers to the instance of the object being created by the constructor.
+
+`this` in object literals are used to define an object and `this` in a constructor is used to create an object.
 
 Object Prototypes Using A Constructor
 
