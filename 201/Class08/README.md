@@ -21,6 +21,8 @@ When using any properties that reorder the visual display away from how things a
 
 -Making all columns in a multiple column layout adopt the same height even if they contain a different amount of content. 
 
+Flexbox - more control with setting it up more relationally.
+
 
 2. How does this topic connect with your long term goals?
 
