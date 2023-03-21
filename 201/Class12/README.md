@@ -16,10 +16,19 @@ The `getContext` method returns a render context object. It takes in
 
 1. What is Chart.js and how it can be brought into your project?
 
+Chart.js provides a set of frequently used chart types, plugins, and customizations options. It renders chart elements on an HTML5 canvas. 
+
+
 2. List 3 different Chart types you can create using Chart.js.
+
+Boxplot, graph, treemap
 
 ## Animated Charts w/ Chart JS
 
 1. What are some advantages to displaying data via a chart over a table?
 
+Charts are better than tables if you want to visualize your data. They are easier to look at and convey data quickly.
+
 2. How could Chart.js aid your previously created applications visually?
+
+For the salmon cookies project, we could see the changes over times better with a graph chart, for isntance. It would be easier to see the changes both hourly and daily accross all stores and each store individually. 
