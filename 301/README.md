@@ -12,9 +12,9 @@
 
 1. constructor
 2. render
-3. reactUpdates
-4. componentDidMount
-5. componentWillUnmount
+3.componentDidMount 
+4. componentWillUnmount
+5. reactUpdates
 
 4. What does `componentDidMount` do?
 This method is invoked immediates after a component is mounted. If you need to load anything using a network request or initialize the DOM, it should go here. This is a good place to set up subscriptions. 
