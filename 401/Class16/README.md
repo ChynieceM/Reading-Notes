@@ -68,4 +68,3 @@ DTOs typically lack business logic and only carry data.
 Immutability is a desired feature of DTOs.
 Further Information
 
-References to further readings on AutoMapper, lazy initialization in C#, and more on immutability in C#.
